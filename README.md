@@ -4,3 +4,4 @@
 2- I want to combine the nutritional data of each dish to the nutritional value to the food data set
 
 3- And we set a specific value like cholesterol or calories to group healthy or unhealthy food dishes
+4- Compare the correlation between the nutrition value between indian food dishes and the food data set.

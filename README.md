@@ -1,8 +1,10 @@
 # Indian-food101
-1- I think it would be a good way to evaluate the nutritional value of the Indian food listed in the Indian food dataset and determine whether they are **healthy or not**
+1- I compared the correlation between the nutrition value between indian food dishes and the food data set. and determine whether they are **healthy or not**
 
-2- I want to combine the nutritional data of each dish to the nutritional value to the food data set
+2- I combine the nutritional data of each dish to the nutritional value to the food data set to make an analysis based on vegetarian and non-vegetarian food.
 
-3- And we set a specific value like cholesterol or calories to group healthy or unhealthy food dishes.
+3- I set a specific value for cholesterol and calories to group healthy or unhealthy food dishes.
 
-4- Compare the correlation between the nutrition value between indian food dishes and the food data set.
+4- I made analysis based on the flavor popular in india and conclusion on the health profile in different regions.
+
+
